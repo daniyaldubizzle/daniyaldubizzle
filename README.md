@@ -8,7 +8,7 @@
 
 <div style="line-height: 1.15">
     <b>Software Engineering Intern - HotelKey Pvt Ltd. </b>
-    <p>October2023 - present</p>
+    <p>June 2022 - Aug 2022</p>
 </div>
 
 
@@ -16,38 +16,21 @@
 
 ## 📚 Academic Experience
 <div style="line-height: 1.15">
-    <b>Lab Instructor - NUCES Lahore </b>
-    <p>Data Structures (September 2023 - present)</p>
+    <b>Punjab University College of Information Technology</b>
+    <p>BS Information Technology</p>
 </div>
+
 
 <div style="line-height: 1.15">
-    <b>Teaching Assistant - NUCES Lahore </b>
-    <p>Object Oriented Programming & Leadership</p>
-</div>
-
-<div style="line-height: 1.15">
-    <b>National University of Computer and Emerging Sciences</b>
-    <p>BS (Computer Science)</p>
+    <b>Forman Christian College</b>
+    <p>Intermediate(Computer Science)</p>
 </div>
 
 
 
 
 
-## 💻 Tools & Technologies
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
-[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=f89820)](#)&nbsp;&nbsp;
-[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
-[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
-<!--[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;-->
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 
 
 
